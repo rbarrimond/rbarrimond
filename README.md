@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Jupyter, Data Science
 - 🌱 I’m currently learning intermediate Python.
 - 💞️ I’m looking to collaborate on data science projects (but have limited bandwidth).
-- 📫 How to reach me ...
+- 📫 How to reach me see my profile email.
 
 <!---
 rbarrimond/rbarrimond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
