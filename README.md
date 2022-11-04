@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rbarrimond
-- 👀 I’m interested in Python, Jupyter, Data Science
-- 🌱 I’m currently learning intermediate Python.
+- 👀 I’m interested in Python to do machine learning, predictive analytics, and deep learning
+- 🌱 I’m currently focused deploying my Python skills as an SRE/Applied Scientist.
 - 💞️ I’m looking to collaborate on data science projects (but have limited bandwidth).
 - 📫 How to reach me see my profile email.
 
