@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rbarrimond
-- 👀 I’m interested in Python to do machine learning, predictive analytics, and deep learning
-- 🌱 I’m currently focused deploying my Python skills as an SRE/Applied Scientist.
-- 💞️ I’m looking to collaborate on data science projects (but have limited bandwidth).
-- 📫 How to reach me see my profile email.
+I am an applied scientist wrapped in site reliability engineer (SRE) clothing. What that means is I apply a somewhat unique data and software engineering driven approach to improving reliability in IT.
+
+I am *not* a full stack or pure application developer. Rather as an SRE, I leverage code-off-the-shelf and software engineering to automate tasks, reduce alert/monitoring noise, create reporting and speed responsiveness to incidents. As an applied scientist in this context, I can build the infrastructure, write the (Python) code and perform data science that gives the insights to improve reliability over the longer term, be more predictive to prevent incidents, etc.
 
 <!---
 rbarrimond/rbarrimond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
